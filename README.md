@@ -17,7 +17,7 @@ The application’s front end has already been created. It's your job to build t
 
 ## Installation Instructions
 ```
-npm i
+node server.js
 ```
 
 ## Usage Information
